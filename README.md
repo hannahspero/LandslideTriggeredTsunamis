@@ -1,3 +1,3 @@
-## Data about the Emerson Collective
+## Landslide-triggered tsunami database
 
-This is a Hack Education project, tracking the financial and social networks of the Emerson Collective
+Hannah Spero Ph.D. Project
